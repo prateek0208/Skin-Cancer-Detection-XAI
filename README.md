@@ -1,4 +1,4 @@
-To make your GitHub repository stand out, you need to balance visual appeal with technical depth. Recruiters often skim the README, so using emojis as "visual anchors" helps them find key information quickly.Here is a more expanded and "emoji-boosted" version of your documentation:🩺 Skin Lesion Diagnostic Portal (XAI)🚀 
+
 Overview
 This repository hosts a Deep Learning solution designed to assist dermatologists in identifying skin pathologies. By using MobileNetV2 and Grad-CAM, we provide not just a prediction, but a visual justification for every diagnosis.
 🧠 Model ArchitectureBase Network: MobileNetV2 (Pre-trained on ImageNet) 
